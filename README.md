@@ -1,3 +1,4 @@
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/soumendrak/PythonNLP.svg?columns=all)](https://waffle.io/soumendrak/PythonNLP)
 # PythonNLP
 NLP practice in Python
 
